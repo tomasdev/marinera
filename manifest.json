@@ -1,0 +1,29 @@
+{
+  "short_name": "mari-deck",
+  "name": "mari-deck",
+  "icons": [
+    {
+      "src": "/images/patitos-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/patitos-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#09161d",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#09161d",
+  "description": "marievictory sound deck",
+  "screenshots": [
+    {
+      "src": "/images/screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    }
+  ]
+}
