@@ -33,6 +33,15 @@ button {
   width: 100px;
 }
 
+button:hover:not(:disabled) {
+  background: #fff;
+}
+
+button:active {
+  box-shadow: none;
+  transform: translate(0, 7px);
+}
+
 button:disabled {
   background: #333 none;
   color: #fff;
